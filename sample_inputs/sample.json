@@ -1,0 +1,6 @@
+{
+  "id": "INV123",
+  "name": "Acme Corp",
+  "type": "Invoice",
+  "amount": "2500"
+}
