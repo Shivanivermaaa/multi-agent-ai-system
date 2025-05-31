@@ -1,0 +1,6 @@
+agents/         # Agents that process different file types
+sample_inputs/  # Example input files (txt, json)
+shared_memory/  # Shared memory logic
+utils/          # File loader and intent detection
+app.py          # Streamlit UI
+main.py         # CLI entry point
